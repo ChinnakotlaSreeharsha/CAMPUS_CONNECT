@@ -44,6 +44,6 @@ This project leverages modern web technologies to create a seamless and dynamic 
 
 To set up **CAMPUS CONNECT** locally:
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/campus-connect.git
