@@ -3,7 +3,6 @@
 **CAMPUS CONNECT** is an innovative and engaging platform designed to seamlessly connect students, faculty, alumni, and campus resources. It serves as an essential hub for community building, learning, and career advancement through streamlined access to academic resources, internships, jobs, and events.
 
 [![Project Status](https://img.shields.io/badge/Status-Active-green)](https://github.com/ChinnakotlaSreeharsha/CAMPUS_CONNECT) 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
